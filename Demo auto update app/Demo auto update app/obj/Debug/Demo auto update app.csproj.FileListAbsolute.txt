@@ -1,0 +1,8 @@
+D:\HCMUS\LT WINDOWS\Demo auto update app\Demo auto update app\obj\Debug\Demo auto update app.csprojResolveAssemblyReference.cache
+D:\HCMUS\LT WINDOWS\Demo auto update app\Demo auto update app\obj\Debug\Demo auto update app.csproj.GenerateResource.Cache
+D:\HCMUS\LT WINDOWS\Demo auto update app\Demo auto update app\bin\Debug\Demoautoupdateapp.exe
+D:\HCMUS\LT WINDOWS\Demo auto update app\Demo auto update app\bin\Debug\Demoautoupdateapp.pdb
+D:\HCMUS\LT WINDOWS\Demo auto update app\Demo auto update app\obj\Debug\Demoautoupdateapp.Properties.Resources.resources
+D:\HCMUS\LT WINDOWS\Demo auto update app\Demo auto update app\obj\Debug\Demoautoupdateapp.exe
+D:\HCMUS\LT WINDOWS\Demo auto update app\Demo auto update app\obj\Debug\Demoautoupdateapp.pdb
+D:\HCMUS\LT WINDOWS\Demo auto update app\Demo auto update app\obj\Debug\Demoautoupdateapp.Form1.resources
