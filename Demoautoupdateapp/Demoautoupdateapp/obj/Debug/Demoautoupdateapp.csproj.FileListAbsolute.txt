@@ -6,3 +6,5 @@ D:\Demo\Demo auto update app\Demoautoupdateapp\obj\Debug\Demoautoupdateapp.cspro
 D:\Demo\Demo auto update app\Demoautoupdateapp\obj\Debug\Demoautoupdateapp.Form1.resources
 D:\Demo\Demo auto update app\Demoautoupdateapp\obj\Debug\Demoautoupdateapp.Properties.Resources.resources
 D:\Demo\Demo auto update app\Demoautoupdateapp\obj\Debug\Demoautoupdateapp.csproj.GenerateResource.Cache
+D:\Demo\Demoautoupdateapp\Demoautoupdateapp\obj\Debug\Demoautoupdateapp.exe
+D:\Demo\Demoautoupdateapp\Demoautoupdateapp\obj\Debug\Demoautoupdateapp.pdb
