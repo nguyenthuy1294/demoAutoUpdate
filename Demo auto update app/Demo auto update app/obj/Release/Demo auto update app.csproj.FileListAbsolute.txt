@@ -1,0 +1,8 @@
+D:\Demo\Demo auto update app\Demo auto update app\bin\Release\Demoautoupdateapp.exe
+D:\Demo\Demo auto update app\Demo auto update app\bin\Release\Demoautoupdateapp.pdb
+D:\Demo\Demo auto update app\Demo auto update app\obj\Release\Demo auto update app.csprojResolveAssemblyReference.cache
+D:\Demo\Demo auto update app\Demo auto update app\obj\Release\Demoautoupdateapp.Form1.resources
+D:\Demo\Demo auto update app\Demo auto update app\obj\Release\Demoautoupdateapp.Properties.Resources.resources
+D:\Demo\Demo auto update app\Demo auto update app\obj\Release\Demo auto update app.csproj.GenerateResource.Cache
+D:\Demo\Demo auto update app\Demo auto update app\obj\Release\Demoautoupdateapp.exe
+D:\Demo\Demo auto update app\Demo auto update app\obj\Release\Demoautoupdateapp.pdb

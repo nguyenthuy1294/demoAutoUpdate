@@ -6,3 +6,5 @@ D:\HCMUS\LT WINDOWS\Demo auto update app\Demo auto update app\obj\Debug\Demoauto
 D:\HCMUS\LT WINDOWS\Demo auto update app\Demo auto update app\obj\Debug\Demoautoupdateapp.exe
 D:\HCMUS\LT WINDOWS\Demo auto update app\Demo auto update app\obj\Debug\Demoautoupdateapp.pdb
 D:\HCMUS\LT WINDOWS\Demo auto update app\Demo auto update app\obj\Debug\Demoautoupdateapp.Form1.resources
+D:\Demo\Demo auto update app\Demo auto update app\obj\Debug\Demoautoupdateapp.exe
+D:\Demo\Demo auto update app\Demo auto update app\obj\Debug\Demoautoupdateapp.pdb
